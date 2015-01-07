@@ -1,5 +1,11 @@
 a, b, c = gets.chomp.split.map(&:to_i)
+sum = 0
 
-# a~bまでを配列にする。
-# cを配列内の数字で順に割っていった時、余りが0となった回数をカウントする。
-# カウントした数字を出力する。
+for i in a..b
+  div = c % i
+  if div == 0
+    sum += 1
+  end
+end
+
+puts sum
