@@ -1,4 +1,4 @@
-#AOJ [![Build Status](https://travis-ci.org/snowmi/AOJ.svg?branch=master)](https://travis-ci.org/snowmi/AOJ)
+#AOJ
 ===
 
 ## Aizu Online Judge用のレポジトリ

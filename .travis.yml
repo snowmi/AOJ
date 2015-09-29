@@ -1,4 +1,0 @@
-language: ruby
-rvm:
-  - 2.2.2
-script: ruby ./test/test_ITP1_1_A.rb
